@@ -6,7 +6,6 @@ class QuickAccessRow extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      // margin: EdgeInsets.symmetric(vertical: 20),
       height: 160,
       child: ListView(
         scrollDirection: Axis.horizontal,

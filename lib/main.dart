@@ -26,8 +26,6 @@ class MyApp extends StatelessWidget {
           child: Column(
             children: [
               QuickAccessRow(),
-              // TableCalendar(focusedDay: DateTime.now(), firstDay: DateTime.utc(1990, 10, 16), lastDay: DateTime.utc(2050, 12, 31)),
-              // CustomCalender(),
               DropDowns(),
             ],
           ),

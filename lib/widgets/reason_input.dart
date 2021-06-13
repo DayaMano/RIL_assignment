@@ -8,7 +8,7 @@ class ReasonInput extends StatefulWidget {
 }
 
 class _ReasonInputState extends State<ReasonInput> {
-  // List<String> reasons = ['Sick', 'Work from Home', 'Business Leave', 'Vacation'];
+  
 
   List<String> reasons = ['Sick', 'Work from Home', 'Business Leave', 'Vacation'];
 
